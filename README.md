@@ -12,4 +12,6 @@
 
 [![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vik0105&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik0105&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 Reach me at PoopDeLaScoop#7482 on Discord and drop me a DM 🙂
