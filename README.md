@@ -10,8 +10,10 @@
 ### Graphic Designer and Artist
 ### Food Connoisseur
 
-[![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vik0105&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVikJ&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vik0105&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVikJ&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVikJ1&theme=dark)](https://git.io/streak-stats)
 
 Reach me at PoopDeLaScoop#7482 on Discord and drop me a DM 🙂
