@@ -14,6 +14,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheVikJ&langs_count=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheVikJ1&theme=dark)](https://git.io/streak-stats)
-
 Reach me at PoopDeLaScoop#7482 on Discord and drop me a DM 🙂
