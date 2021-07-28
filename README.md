@@ -3,7 +3,7 @@
 ## I'm Vikramaditya Jaisingh, a high school student developer and frequent hackathon attendee.
 
 ### Submitted 21 projects to Hackathons
-### Won prizes at 4 Hackathons
+### Won prizes at 5 Hackathons
 ### Organised 1 Hackathon
 ### Python, C#, R, Javascript, Arduino
 ### Discord Bot, IoT, Robotics and Web Enthusiast
