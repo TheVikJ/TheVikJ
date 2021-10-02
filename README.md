@@ -5,7 +5,7 @@
 ### Submitted 21 projects to Hackathons
 ### Won prizes at 5 Hackathons
 ### Organised 1 Hackathon
-### Python, C#, R, Javascript, Arduino
+### Python, C#, R, Arduino
 ### Discord Bot, IoT, Robotics and Web Enthusiast
 ### Graphic Designer and Artist
 ### Food Connoisseur
