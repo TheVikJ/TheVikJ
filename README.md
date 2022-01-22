@@ -4,11 +4,10 @@
 
 ### Submitted 21 projects to Hackathons
 ### Won prizes at 5 Hackathons
-### Organised 1 Hackathon
+### Organised 2 Hackathons
 ### Python, C#, R, Arduino
 ### Discord Bot, IoT, Robotics and Web Enthusiast
 ### Graphic Designer and Artist
-### Food Connoisseur
 
 [![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVikJ&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
