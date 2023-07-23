@@ -1,9 +1,9 @@
 ## Hey, I'm Vik! 👋
-I'm an Honors Computer Science Student @ UMass Amherst, and Blahpope of Blahaj Gang.
+I'm an Honors Computer Science Student @ UMass Amherst.
 
-I like working with Python, C#, and Java doing backend stuff and Discord bots. 
+Find out more about me on [my website](https://viks.space)! 
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/thevikj/) or [Email](mailto:vikram.jaisingh123@gmail.com).
+Or reach out to me on [LinkedIn](https://www.linkedin.com/in/thevikj/)/[Email](mailto:vikram.jaisingh123@gmail.com). 
 
 <details>
 <summary>Hackathon Projects </summary>
@@ -15,6 +15,6 @@ Reach out to me on [LinkedIn](https://www.linkedin.com/in/thevikj/) or [Email](m
   * [PlaywrightPaladin](https://devpost.com/software/playwrightpaladin) - A website and extension to help writers with self-control
   * [Ocarina](https://devpost.com/software/ocarina) - Control your PC with songs from the Legend of Zelda: Ocarina of Time
   
-  ➕ [Check out some more!](https://devpost.com/vikram-jaisingh123)
+  ➕ [Check out some more!](https://viks.space)
 
 </details>
