@@ -1,5 +1,5 @@
 ## Hey, I'm Vik! 👋
-I'm an Honors Computer Science Student @ UMass Amherst.
+I'm an Honors Computer Science and Philosophy Student @ UMass Amherst.
 
 Find out more about me on [my website](https://viks.space)! 
 
