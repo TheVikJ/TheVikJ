@@ -6,7 +6,15 @@ Find out more about me on [my website](https://viks.space)!
 Or reach out to me on [LinkedIn](https://www.linkedin.com/in/thevikj/)/[Email](mailto:vikram.jaisingh123@gmail.com). 
 
 <details>
-<summary>Hackathon Projects </summary>
+<summary>🌟UI/UX Projects🌟</summary> 
+  
+  * [Amherst Cinema](https://viks.space/projects/amherst-cinema) - Redesigning the home page of the Amherst Cinema website
+  * [UMass Dining](https://viks.space/projects/umass-dining) - Redesigning the UMass Dining app
+
+</details>
+
+<details>
+<summary>🌟Hackathon Projects🌟</summary>
 
   🚀 Some of my favorites: 
   
