@@ -7,7 +7,9 @@ Or reach out to me on [LinkedIn](https://www.linkedin.com/in/thevikj/)/[Email](m
 
 <details>
 <summary>🌟UI/UX Projects🌟</summary> 
-  
+
+  * [5Hub](https://viks.space/projects/5hub/) - Designing an events app for the Pioneer Valley Five College Area
+  * [ThorGPT](https://viks.space/projects/thorgpt/) - Designing a RAG LLM for ISO New England
   * [Amherst Cinema](https://viks.space/projects/amherst-cinema) - Redesigning the home page of the Amherst Cinema website
   * [UMass Dining](https://viks.space/projects/umass-dining) - Redesigning the UMass Dining app
 
